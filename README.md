@@ -20,7 +20,7 @@ My first repository
 
 ## 3. Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau *(Beast Tamer)*
   ## Author: Suzu Miyama, Shigemura Moto
-  > Genres: 
+  > Genres: Action, Adventure, Comedy, Fantasy, Romance,Slice of Life, Harem, Shounen
   #### Short Description [MangaDex](https://mangadex.org/title/d0c60a11-0106-45cf-abfc-d131cb49868f/beast-tamer):
    `Because Rein was a weak and simple beast tamer, he was expelled from the hero's group but that didn't stop his desire to be an adventurer. By taking simple quests afterwards he has a destined encounter with a strong cat girl.`
   
